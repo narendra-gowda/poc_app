@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141201510457",
+    "project_id": "mmh-pilot-app",
+    "storage_bucket": "mmh-pilot-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141201510457:android:a2d613e614a9e210e23de8",
+        "android_client_info": {
+          "package_name": "com.poc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141201510457-0rpjo7o3d65c586ll2buk59r1rg27hfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyCCXnn69_OMlHz30RhK2X3p_x6XHowc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141201510457-0rpjo7o3d65c586ll2buk59r1rg27hfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
